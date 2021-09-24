@@ -2,7 +2,7 @@
 
 body{
     background-color: black;
-    min-width: 320px;
+    min-width: 300px;
     max-width: 1000px;
     margin: auto;
 }
@@ -20,7 +20,6 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(128, 5, 5);
     text-align: center;
-    min
 }
 
 
