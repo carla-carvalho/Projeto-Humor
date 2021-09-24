@@ -2,7 +2,9 @@
 
 body{
     background-color: black;
-
+    min-width: 320px;
+    max-width: 1000px;
+    margin: auto;
 }
 
 h1{
@@ -18,6 +20,7 @@ h2 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: rgb(128, 5, 5);
     text-align: center;
+    min
 }
 
 
@@ -33,7 +36,7 @@ button {
     cursor: pointer;
     font-family: Tahoma;
     padding: 12px;
-    -webkit-box-shadow: 1px 1px 6px 0 #d10606;
+    -webkit-box-shadow: 1px 1px 6px 0 #f70808;
     -moz-box-shadow: 1px 1px 6px 0 #d10606;
     box-shadow: 1px 1px 6px 0 #d10606;
     text-shadow: 1px 1px 6px #1361aa;
