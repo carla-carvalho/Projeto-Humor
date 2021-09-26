@@ -7,8 +7,8 @@ const frase = document.querySelector ("#fraseprincipal");
 
 btn.addEventListener ("click", function () { //aqui coloca o nome da id para adicionar o evento
     if (botao.value == 'primeiro'){
-        imagem1.src = "assustado.png"
-        frase.innerText = "De tarde, ele ficou assustado\n porque encontrou a princesa\n presa no castelo!"
+        imagem1.src = "desesperado.png"
+        frase.innerText = "De tarde, ele ficou desesperado\n porque encontrou a princesa\n presa no castelo!"
         botao.value = 'segundo'
     }
 
