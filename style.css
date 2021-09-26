@@ -5,7 +5,7 @@
 
 body{
     background-color: black;
-    min-width: 320px;
+    min-width: 280px;
     max-width: 800px;
     margin: auto;
     align-items: center;
@@ -64,6 +64,5 @@ footer {
     position: absolute;
     top: 590px;
     right: 50px;
-    bottom: 600px;
     
 }
